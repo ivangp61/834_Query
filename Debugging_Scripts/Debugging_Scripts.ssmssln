@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# SQL Server Management Studio Solution File, Format Version 12.00
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL Server Scripts1", "SQL Server Scripts1\SQL Server Scripts1.ssmssqlproj", "{1FDC30C8-B0FC-472F-A812-24A474A24FE1}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DIH_Member", "DIH_Member\DIH_Member.ssmssqlproj", "{88630B2C-ACD0-4674-B571-26D88263D1A0}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Plandata", "Plandata\Plandata.ssmssqlproj", "{FA8D6BE9-B03B-466B-BE2B-BB3CB4455641}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "318330", "318330\318330.ssmssqlproj", "{96D94DDB-F302-43DD-A8B6-725E1C9A24F1}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "335023", "..\..\..\..\335023\Development\Query\335023\335023.ssmssqlproj", "{1A26E51E-8CBC-454C-98A9-3861956D3947}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "350867", "..\..\..\..\350867\Development\Query\350867\350867.ssmssqlproj", "{D475BDB7-046B-46AF-9D8A-EE9670DE99B7}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "376401", "376401\376401.ssmssqlproj", "{DAE9B108-9218-46CB-A576-68DEDCC1D3EE}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "407164", "407164\407164.ssmssqlproj", "{1AAC1BD1-D621-47DC-9824-E34BCE361B9F}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "353375", "353375\353375.ssmssqlproj", "{D7988A42-E4C1-496C-A063-B832B0FA27EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FDC30C8-B0FC-472F-A812-24A474A24FE1}.Default|Default.ActiveCfg = Default
+		{88630B2C-ACD0-4674-B571-26D88263D1A0}.Default|Default.ActiveCfg = Default
+		{FA8D6BE9-B03B-466B-BE2B-BB3CB4455641}.Default|Default.ActiveCfg = Default
+		{96D94DDB-F302-43DD-A8B6-725E1C9A24F1}.Default|Default.ActiveCfg = Default
+		{1A26E51E-8CBC-454C-98A9-3861956D3947}.Default|Default.ActiveCfg = Default
+		{D475BDB7-046B-46AF-9D8A-EE9670DE99B7}.Default|Default.ActiveCfg = Default
+		{94018BD4-8E96-44E3-8EE4-D6ECFB7F7182}.Default|Default.ActiveCfg = Default
+		{DAE9B108-9218-46CB-A576-68DEDCC1D3EE}.Default|Default.ActiveCfg = Default
+		{1AAC1BD1-D621-47DC-9824-E34BCE361B9F}.Default|Default.ActiveCfg = Default
+		{D7988A42-E4C1-496C-A063-B832B0FA27EE}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
